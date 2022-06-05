@@ -1,2 +1,2 @@
-# Project speed dating 💖
-Understand what will influence the obtaining of a second date
+# 💖 Speed Dating Experiment 💖
+What attributes influence the selection of a romantic partner?
