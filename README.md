@@ -1,10 +1,11 @@
 # Jedha Bootcamp Project Block n°2
 
-
-
 Email : hicham.mrani@outlook.fr
 
-Vidyard link : 
+Vidyard link : [#]()
+
+- Open the Jupyter notebook file "Speed-Dating-Analysis.ipynb" to access the work
+- Open the "dataset" folder to acces informations about the dataset
 
 # 🇫🇷 | Bloc n°2 - Analyse exploratoire, descriptive et inférentielle de données
 
