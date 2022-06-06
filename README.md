@@ -7,17 +7,24 @@ Vidyard link : [#]()
 - Open the Jupyter notebook file "Speed-Dating-Analysis.ipynb" to access the work
 - Open the "dataset" folder to acces informations about the dataset
 
-# 🇫🇷 | Bloc n°2 - Analyse exploratoire, descriptive et inférentielle de données
+# 💖 Speed Dating Experiment 💖
 
-- **C2.1** - Traiter des bases de données grâce à des analyses statistiques descriptives et inférentielles via des librairies de programmation comme Numpy ou Pandas, pour les organiser et les nettoyer afin de les normaliser par rapport à la population étudiée.
-- **C2.2** - Effectuer des analyses univariées et multivariées sur des bases de données structurées afin de préciser des relations entre plusieurs variables et d'établir des liens statistiques entre elles.
-- **C2.3** - Optimiser les analyses statistiques grâce au traitement parallélisé via l'utilisation d'outils comme Spark pour accélérer le temps de calcul d'un ordinateur afin de pouvoir analyser des volumes de données massifs. (Big Data) 
-- **C2.4** - Présenter le résultat d'une analyse statistique de données structurées, massives ou non, grâce à des librairies de programmation comme Plotly ou Matplotlib pour synthétiser ce résultat devant un public profane afin de faciliter la prise de décisions et appuyer leurs déclinaisons opérationnelles.
+What attributes influence the selection of a romantic partner?
 
+## About Dataset
 
-# 🇬🇧 | Block n°2 - Exploratory, descriptive and inferential analysis of data.
+What influences love at first sight? (Or, at least, love in the first four minutes?) This **dataset** was compiled by **Columbia Business School professors Ray Fisman and Sheena Iyengar** for their paper **Gender Differences in Mate Selection: Evidence From a Speed Dating Experiment**.
 
-- C2.1 - Process databases using descriptive and inferential statistical analyzes via programming libraries such as Numpy or Pandas, to organize and clean them in order to standardize them in relation to the population studied.
-- **C2.2** - Perform univariate and multivariate analyzes on structured databases in order to specify relationships between several variables and establish statistical links between them.
-- **C2.3** - Optimize statistical analyzes through parallelized processing through the use of tools like Spark to speed up the calculation time of a computer in order to be able to analyze massive volumes of data (Big Data)
-- **C2.4** - Present the result of a statistical analysis of structured data, massive or not, thanks to programming libraries such as Plotly or Matplotlib to synthesize this result in front of a lay audience in order to facilitate decision-making and support their operational variations. 
+Data was gathered from participants in experimental speed dating events from 2002-2004. During the events, the attendees would have a four minute "first date" with every other participant of the opposite sex. At the end of their four minutes, participants were asked if they would like to see their date again. They were also asked to rate their date on six attributes: Attractiveness, Sincerity, Intelligence, Fun, Ambition, and Shared Interests.
+
+The dataset also includes survey data gathered from participants at different points in the process. These fields include: demographics, dating habits, self-perception across key attributes, beliefs on what others find valuable in a mate, and lifestyle information. See the Speed Dating Data Key document below for details.
+
+For more analysis from Iyengar and Fisman, read Racial Preferences in Dating.
+
+## Data Exploration Ideas
+
+- What are the least desirable attributes in a male partner? Does this differ for female partners?
+- How important do people think attractiveness is in potential mate selection vs. its real impact?
+- Are shared interests more important than a shared racial background?
+- Can people accurately predict their own perceived value in the dating market?
+- In terms of getting a second date, is it better to be someone's first speed date of the night or their last?
