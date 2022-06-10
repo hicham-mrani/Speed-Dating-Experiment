@@ -1,4 +1,4 @@
-# Block n°2 - Jedha Bootcamp Certification
+# ⚠️ This project is mandatory for JedhaBootcamp certification bloc #2
 
 Email : hicham.mrani@outlook.fr
 
